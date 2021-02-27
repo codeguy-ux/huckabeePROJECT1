@@ -1,0 +1,8 @@
+body{background-image: linear-gradient(90deg, #31868F, #2B9623)}
+h1{text-align: center}
+p{color: white}
+
+a:link {color: black;}
+a:visited {color: #27A5D9;}
+a:hover {color: #F2FF8C;}
+a:active {color: blue;}
